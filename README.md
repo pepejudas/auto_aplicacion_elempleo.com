@@ -9,3 +9,6 @@ instrucciones:
 4. Cambiar la linea 191 con los parametros de inicio de sesion de la cuenta de elempleo.com
 5. Ejecutar el script en consola (# python3 aplicar.py)
 6. Esperar las llamadas!! 
+
+
+https://www.paypal.com/donate/?hosted_button_id=NCFQCAY8S5C72
