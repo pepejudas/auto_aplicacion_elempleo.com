@@ -10,5 +10,6 @@ instrucciones:
 5. Ejecutar el script en consola (# python3 aplicar.py)
 6. Esperar las llamadas!! 
 
+Por favor dona 1 dolar para apoyar mi trabajo, haciendo click aqui, muchas gracias...
 
 https://www.paypal.com/donate/?hosted_button_id=NCFQCAY8S5C72
